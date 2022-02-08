@@ -1,0 +1,1 @@
+web: gunicorn English-To-Hindi_App:app
